@@ -1,0 +1,3 @@
+- 根.skill
+- 核心.skill
+- 各种技能的skill说明
